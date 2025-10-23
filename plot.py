@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 n = 80
 x = np.linspace(0,1,n)
 y = np.linspace(0,1,n)
-file = pd.read_csv(r"C:\Users\AJAY\Desktop\c++\lab3\data.csv") 
+file = pd.read_csv(r"data.csv") # replace with file location
 jacobi = np.array(file['jacobi'])
 gauss = np.array(file['gauss'])
 sor = np.array(file['sor'])
