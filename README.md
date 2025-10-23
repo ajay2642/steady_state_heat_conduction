@@ -9,4 +9,9 @@ solved this numerically by different iterative schemes;
 2 . gauss seidel
 3 . successive over relaxation
 
+No of iterations taten to complete 
+sor with omega 1.5 = 6407
+jacobi  = 19083
+gauss = 10316
+
  
